@@ -1,3 +1,7 @@
+/* Add outlines to all the elements for visualizing all the elements */
+* {
+    outline: 1px solid red;
+}
 /* Reset some basic elements to ensure consistency across browsers */
 body, h1, ul, li {
     margin: 0;
