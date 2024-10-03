@@ -2,4 +2,4 @@ This is my first project of the Odin Project.
 
 It is a simple recipes website that consists of a main index page that has links to a few recipes. 
 
-At this time, it is only consist of HTML chops. But later I'll revisit it to style it up with CSS.
+Currently, it consists of basic HTML structure and simple CSS styles. I plan to revisit it later to add more content.
